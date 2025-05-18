@@ -1,0 +1,30 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
+        closeToOpen = {')' : '(', '}' : '{', ']' : '['}
+
+        for c in s:
+            if c in closeToOpen:
+                if stack and stack[-1] == closeToOpen[c]:
+                    stack.pop()
+                else:
+                    return False
+            else:
+                stack.append(c)
+        return True if not stack else False
+
+# In this problem we will have to use STACK & HASHMAP
+# The idea is that we use stack for the first part of the string 
+# and we use hashmap for the second part of the string in a really cool way
+
+# s = '([{}])' iterate through it and for the first 3 add it in stack and then
+# for the last 3 compare it from the hashmap to the stack and if they are 
+# similar then return True else return False
+
+'''
+| Complexity Type | Value | Reason |
+_____________________________________________________________________________
+| Time | O(n) | One loop through the string; constant-time operations inside|
+_____________________________________________________________________________
+| Space | O(n) | Stack can grow up to size `n` in worst case |
+'''
