@@ -15,6 +15,7 @@ Each file is named after the Leetcode problem title and includes:
 ✅ Problems Solved So Far
 
 - `1. Two Sum`
+- `9. Palindrome Number`
 - `20. Valid Parentheses`
 
 📅 Daily Goal
