@@ -20,6 +20,7 @@ Each file is named after the Leetcode problem title and includes:
 - `121. Best Time to Buy and Sell Stock`
 - `122. Best Time to Buy and Sell Stock II`
 - `242. Valid Anagram`
+- `342. Power of Four`
 
 📅 Daily Goal
 
