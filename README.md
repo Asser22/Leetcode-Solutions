@@ -19,6 +19,7 @@ Each file is named after the Leetcode problem title and includes:
 - `20. Valid Parentheses`
 - `121. Best Time to Buy and Sell Stock`
 - `122. Best Time to Buy and Sell Stock II`
+- `242. Valid Anagram`
 
 📅 Daily Goal
 
