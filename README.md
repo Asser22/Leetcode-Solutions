@@ -17,6 +17,7 @@ Each file is named after the Leetcode problem title and includes:
 - `1. Two Sum`
 - `9. Palindrome Number`
 - `20. Valid Parentheses`
+- `35. Search Insert Position`
 - `121. Best Time to Buy and Sell Stock`
 - `122. Best Time to Buy and Sell Stock II`
 - `242. Valid Anagram`
