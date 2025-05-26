@@ -22,6 +22,7 @@ Each file is named after the Leetcode problem title and includes:
 - `122. Best Time to Buy and Sell Stock II`
 - `242. Valid Anagram`
 - `342. Power of Four`
+- `509. Fibonacci Number`
 
 📅 Daily Goal
 
