@@ -24,6 +24,7 @@ Each file is named after the Leetcode problem title and includes:
 - `242. Valid Anagram`
 - `342. Power of Four`
 - `509. Fibonacci Number`
+- `771. Jewels and Stones`
 
 📅 Daily Goal
 
