@@ -1,0 +1,22 @@
+class Solution:
+    def defangIPaddr(self, address: str) -> str:
+        # Time complexity: O(n)
+        # Space complexity: O(1)
+        return address.replace(".","[.]")
+
+
+
+# Another solution:
+```
+class Solution:
+    def defangIPaddr(self, address: str) -> str:
+        # Time complexity: O(n)
+        # Space complexity: O(1)
+        result = ""
+        for char in address:
+            if char == ".":
+                result += "[.]"
+            else:
+                result = result + char
+        return result
+```
