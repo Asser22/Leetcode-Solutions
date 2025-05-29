@@ -1,0 +1,6 @@
+class Solution:
+    def numJewelsInStones(self, jewels: str, stones: str) -> int:
+        # Time Complexity: O(n)
+        # Space Complexity: O(1) (since alphabet size is fixed)
+        jewels_set = set(jewels)
+        return sum(s in jewels_set for s in stones)
