@@ -26,6 +26,7 @@ Each file is named after the Leetcode problem title and includes:
 - `509. Fibonacci Number`
 - `771. Jewels and Stones`
 - `1108. Defanging an IP Address`
+- `1672. Richest Customer Wealth`
 
 📅 Daily Goal
 
