@@ -30,6 +30,7 @@ Each file is named after the Leetcode problem title and includes:
 - `1672. Richest Customer Wealth`
 - `1929. Concatenation of Array`
 - `2703. Return Length of Arguments Passed`
+- `2723. Add Two Promises`
 
 📅 Daily Goal
 
