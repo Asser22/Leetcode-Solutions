@@ -32,6 +32,7 @@ Each file is named after the Leetcode problem title and includes:
 - `2703. Return Length of Arguments Passed`
 - `2723. Add Two Promises`
 - `2769. Find the Maximum Achievable Number`
+- `2879. Display the First Three Rows`
 
 📅 Daily Goal
 
