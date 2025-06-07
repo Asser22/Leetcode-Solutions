@@ -28,6 +28,7 @@ Each file is named after the Leetcode problem title and includes:
 - `912. Sort an Array`
 - `1108. Defanging an IP Address`
 - `1672. Richest Customer Wealth`
+- `1795. Rearrange Products Table`
 - `1929. Concatenation of Array`
 - `2703. Return Length of Arguments Passed`
 - `2723. Add Two Promises`
