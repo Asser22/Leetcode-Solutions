@@ -27,6 +27,7 @@ Each file is named after the Leetcode problem title and includes:
 - `771. Jewels and Stones`
 - `912. Sort an Array`
 - `1108. Defanging an IP Address`
+- `1544. Make The String Great`
 - `1672. Richest Customer Wealth`
 - `1795. Rearrange Products Table`
 - `1929. Concatenation of Array`
