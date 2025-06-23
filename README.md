@@ -37,6 +37,7 @@ Each file is named after the Leetcode problem title and includes:
 - `2769. Find the Maximum Achievable Number`
 - `2879. Display the First Three Rows`
 - `2886. Change Data Type`
+- `2888. Reshape Data: Concatenate`
 
 📅 Daily Goal
 
