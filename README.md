@@ -39,6 +39,7 @@ Each file is named after the Leetcode problem title and includes:
 - `2886. Change Data Type`
 - `2888. Reshape Data: Concatenate`
 - `2894. Divisible and Non-divisible Sums Difference`
+- `3110. Score of a String`
 
 📅 Daily Goal
 
