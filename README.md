@@ -15,6 +15,7 @@ Each file is named after the Leetcode problem title and includes:
 ✅ Problems Solved So Far
 
 - `1. Two Sum`
+- `4. Median of Two Sorted Arrays`
 - `9. Palindrome Number`
 - `20. Valid Parentheses`
 - `34. Find First and Last Position of Element in Sorted Array`
