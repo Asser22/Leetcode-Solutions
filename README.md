@@ -17,6 +17,7 @@ Each file is named after the Leetcode problem title and includes:
 - `1. Two Sum`
 - `4. Median of Two Sorted Arrays`
 - `9. Palindrome Number`
+- `13. Roman to Integer`
 - `20. Valid Parentheses`
 - `34. Find First and Last Position of Element in Sorted Array`
 - `35. Search Insert Position`
