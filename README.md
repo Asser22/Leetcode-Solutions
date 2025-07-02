@@ -21,6 +21,7 @@ Each file is named after the Leetcode problem title and includes:
 - `20. Valid Parentheses`
 - `34. Find First and Last Position of Element in Sorted Array`
 - `35. Search Insert Position`
+- `66. Plus One`
 - `121. Best Time to Buy and Sell Stock`
 - `122. Best Time to Buy and Sell Stock II`
 - `242. Valid Anagram`
