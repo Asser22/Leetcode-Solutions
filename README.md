@@ -34,6 +34,7 @@ Each file is named after the Leetcode problem title and includes:
 - `242. Valid Anagram`
 - `268. Missing Number`
 - `342. Power of Four`
+- `392. Is Subsequence`
 - `424. Longest Repeating Character Replacement`
 - `509. Fibonacci Number`
 - `771. Jewels and Stones`
