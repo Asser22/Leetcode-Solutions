@@ -20,6 +20,7 @@ Each file is named after the Leetcode problem title and includes:
 - `9. Palindrome Number`
 - `11. Container With Most Water`
 - `13. Roman to Integer`
+- `14. Longest Common Prefix`
 - `20. Valid Parentheses`
 - `21. Merge Two Sorted Lists`
 - `34. Find First and Last Position of Element in Sorted Array`
