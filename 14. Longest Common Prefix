@@ -1,0 +1,16 @@
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        prefix = strs[0]
+        prefixLength = len(prefix)
+
+        for s in strs[1:]:
+            while prefix != s[0:prefixLength]:
+                prefixLength -= 1
+                if prefixLength == 0:
+                    return ""
+                prefix = prefix[0:prefixLength]
+
+        return prefix
+        
+        # Time: O(n * m)
+        # Space: O(len(strs[0]))
