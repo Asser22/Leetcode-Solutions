@@ -15,6 +15,7 @@ Each file is named after the Leetcode problem title and includes:
 ✅ Problems Solved So Far
 
 - `1. Two Sum`
+- `3. Longest Substring Without Repeating Characters`
 - `4. Median of Two Sorted Arrays`
 - `9. Palindrome Number`
 - `11. Container With Most Water`
