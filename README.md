@@ -27,6 +27,7 @@ Each file is named after the Leetcode problem title and includes:
 - `34. Find First and Last Position of Element in Sorted Array`
 - `35. Search Insert Position`
 - `42. Trapping Rain Water`
+- `49. Group Anagrams`
 - `66. Plus One`
 - `100. Same Tree`
 - `121. Best Time to Buy and Sell Stock`
