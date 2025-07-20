@@ -23,6 +23,7 @@ Each file is named after the Leetcode problem title and includes:
 - `14. Longest Common Prefix`
 - `20. Valid Parentheses`
 - `21. Merge Two Sorted Lists`
+- `28. Find the Index of the First Occurrence in a String`
 - `34. Find First and Last Position of Element in Sorted Array`
 - `35. Search Insert Position`
 - `42. Trapping Rain Water`
