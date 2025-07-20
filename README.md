@@ -29,6 +29,7 @@ Each file is named after the Leetcode problem title and includes:
 - `42. Trapping Rain Water`
 - `49. Group Anagrams`
 - `53. Maximum Subarray`
+- `58. Length of Last Word`
 - `66. Plus One`
 - `100. Same Tree`
 - `121. Best Time to Buy and Sell Stock`
