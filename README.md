@@ -36,6 +36,7 @@ Each file is named after the Leetcode problem title and includes:
 - `122. Best Time to Buy and Sell Stock II`
 - `128. Longest Consecutive Sequence`
 - `141. Linked List Cycle`
+- `175. Combine Two Tables`
 - `206. Reverse Linked List`
 - `242. Valid Anagram`
 - `268. Missing Number`
