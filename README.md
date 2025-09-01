@@ -26,6 +26,7 @@ Each file is named after the Leetcode problem title and includes:
 - `28. Find the Index of the First Occurrence in a String`
 - `34. Find First and Last Position of Element in Sorted Array`
 - `35. Search Insert Position`
+- `36. Valid Sudoku`
 - `42. Trapping Rain Water`
 - `49. Group Anagrams`
 - `53. Maximum Subarray`
