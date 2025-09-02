@@ -43,6 +43,7 @@ Each file is named after the Leetcode problem title and includes:
 - `206. Reverse Linked List`
 - `242. Valid Anagram`
 - `268. Missing Number`
+- `322. Coin Change`
 - `342. Power of Four`
 - `347. Top K Frequent Elements`
 - `392. Is Subsequence`
