@@ -44,6 +44,7 @@ Each file is named after the Leetcode problem title and includes:
 - `206. Reverse Linked List`
 - `242. Valid Anagram`
 - `268. Missing Number`
+- `283. Move Zeroes`
 - `322. Coin Change`
 - `342. Power of Four`
 - `347. Top K Frequent Elements`
