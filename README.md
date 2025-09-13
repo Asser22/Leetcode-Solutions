@@ -38,6 +38,7 @@ Each file is named after the Leetcode problem title and includes:
 - `128. Longest Consecutive Sequence`
 - `141. Linked List Cycle`
 - `155. Min Stack`
+- `167. Two Sum II - Input Array Is Sorted`
 - `175. Combine Two Tables`
 - `182. Duplicate Emails`
 - `206. Reverse Linked List`
