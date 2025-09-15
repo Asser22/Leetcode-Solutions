@@ -1,0 +1,7 @@
+class Solution:
+    def getSneakyNumbers(self, nums: List[int]) -> List[int]:
+        y = set(nums)
+        for x in y:
+            if x in nums:
+                nums.remove(x)
+        return nums
