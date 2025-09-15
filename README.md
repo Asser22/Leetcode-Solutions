@@ -21,6 +21,7 @@ Each file is named after the Leetcode problem title and includes:
 - `11. Container With Most Water`
 - `13. Roman to Integer`
 - `14. Longest Common Prefix`
+- `15. 3Sum`
 - `20. Valid Parentheses`
 - `21. Merge Two Sorted Lists`
 - `28. Find the Index of the First Occurrence in a String`
