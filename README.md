@@ -70,6 +70,7 @@ Each file is named after the Leetcode problem title and includes:
 - `2894. Divisible and Non-divisible Sums Difference`
 - `3110. Score of a String`
 - `3174. Clear Digits1`
+- `3289. The Two Sneaky Numbers of Digitville`
 
 📅 Daily Goal
 
