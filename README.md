@@ -53,6 +53,7 @@ Each file is named after the Leetcode problem title and includes:
 - `392. Is Subsequence`
 - `424. Longest Repeating Character Replacement`
 - `509. Fibonacci Number`
+- `682. Baseball Game`
 - `771. Jewels and Stones`
 - `912. Sort an Array`
 - `1108. Defanging an IP Address`
